@@ -322,7 +322,6 @@ class AboutDialog(QMessageBox):
         self.setText(content)
 
 
-
 app = QApplication(sys.argv)
 main_window = MainWindow()
 main_window.show()
